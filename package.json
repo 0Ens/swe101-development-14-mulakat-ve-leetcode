@@ -1,0 +1,13 @@
+{
+  "name": "swe101-development-14-mulakat-ve-leetcode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SWE-101 LeetCode çözüm günlüğü ve STAR hikaye bankası",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run --passWithNoTests"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}
