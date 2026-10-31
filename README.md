@@ -18,7 +18,7 @@ npm test
 
 | Problem | LeetCode | Zorluk | Durum |
 | --- | --- | --- | --- |
-| Two Sum | [Link](https://leetcode.com/problems/two-sum/) | Easy | Yapılacak |
+| Two Sum | [Link](https://leetcode.com/problems/two-sum/) | Easy | Accepted |
 | Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate/) | Easy | Yapılacak |
 | Valid Anagram | [Link](https://leetcode.com/problems/valid-anagram/) | Easy | Yapılacak |
 | Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Yapılacak |
