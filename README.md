@@ -22,9 +22,8 @@ npm test
 | Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate/) | Easy | Accepted |
 | Valid Anagram | [Link](https://leetcode.com/problems/valid-anagram/) | Easy | Accepted |
 | Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Accepted |
-| Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | Easy | Yapılacak |
-| Majority Element | [Link](https://leetcode.com/problems/majority-element/) | Easy | Yapılacak |
-| Move Zeroes | [Link](https://leetcode.com/problems/move-zeroes/) | Easy | Yapılacak |
+| Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | Easy | Accepted |
+
 
 ## Klasör yapısı
 
