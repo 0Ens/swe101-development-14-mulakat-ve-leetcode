@@ -39,3 +39,8 @@ interview-prep.md      # STAR hikayeleri
 
 ## Ne öğrendim
 
+- Hash map ve Set'i daha etkili kullanmayı ve nerelerde daha efektif kullanabileceğimi öğrendim.
+- Bellekten verip zamandan kazanma örnekleri yaşadım. TLE'ye takılmıştım, artık daha hızlı çalışabilecek algoritmalar kurabiliyorum.
+- `toString` kullanılırken dizideki her değerin arasına virgül eklendiğini öğrendim.
+- Regex kullanarak sembol filtrelemeyi öğrendim.
+- Bundan sonra kod yazmaya başlarken aklıma mantıklı gelen ilk fikirle değil, plan sonucu mantıklı bulduğum yolla başlayacağım.
